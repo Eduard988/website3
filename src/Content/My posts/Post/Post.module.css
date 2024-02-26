@@ -1,0 +1,9 @@
+.item {
+    display: flex;
+    flex-direction: column;
+}
+
+.post img {
+    width: 20px;
+    height: 20px;
+}
